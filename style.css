@@ -80,13 +80,13 @@ a:hover{
 }
     
 
-#cabeçalho a:link, #cabeçalho a:visited {
+#cabecalho a:link, #cabecalho a:visited {
     color: #fff;
     padding: 8px 12px;
     
 }
 
-#cabeçalho a:hover{
+#cabecalho a:hover{
     color: #f7b600;
     background-color: white;
     text-decoration: none;
